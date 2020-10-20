@@ -9,7 +9,7 @@ lib<br>
 
 debug version: /lib/libprotobufd.lib<br>
 release version: /lib/libprotobuf.lib<br>
-/protobuf/bin/protoc.exe<br>
+/bin/protoc.exe<br>
 ...<br>
 
 
