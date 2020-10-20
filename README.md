@@ -2,9 +2,9 @@
 source code : https://github.com/protocolbuffers/protobuf/tree/3.5.x <br>
 
 ## contains:<br>
-bin<br>
-include<br> 
-lib<br>
+/bin<br>
+/include<br> 
+/lib<br>
 
 
 debug version: /lib/libprotobufd.lib<br>
