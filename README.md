@@ -16,5 +16,5 @@ release version: /lib/libprotobuf.lib<br>
 Usage:
 Put all files into your custom directory like 'C:/Program Files (x86)/protobuf'<br>
 
-then set environment variables about protobuf, for example:<br>
+then set environment variables about protobuf when you build other project, for example:<br>
 ![](https://github.com/sitonmoon/protobuf-3.5.x-Release/blob/main/demo.png)
